@@ -6,9 +6,9 @@ I'm a (\*cought\* student) back-end developer from France !
 
 - 🌱 I’m currently learning python, django and how to become a neat full-stack developer. Loving it !
 
-- 🎲 My number one passion is roleplay games ! Yes, D&D, exactly ! 
+- 💼 Mostly looking for collaborations on small websites / apps / APIs. I'm new to this but I'm also a fast learner 💡
 
-- 💼 Mostly looking for collaborations on small websites / apps / APIs. I'm new to this but I'm also a fast learner 🏃‍♀️
+- 🎲 I'm crazy about roleplaying games ! Yes, D&D, exactly ! It's an amazingly creative hobby, and I'm looking forward to buildings apps for our community ♥️
 
 - 📫 You can reach me at marie.jeammet [at] protonmail [dot] com 
 
