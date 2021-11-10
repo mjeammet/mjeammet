@@ -1,8 +1,34 @@
-- 👋 Hey, I’m Marie !
-- 👀 My number one long-lasting passion is roleplay ! Yes, D&D. Yes, those geeks going on about how heroic their lvl 17 bard gnome was last week against that dragon-minotaur creature ? That's me. This weirdo getting dressed as a "Rosie" and living a WW2 social revolution for the whole week-end ? That's also me.
-- 🌱 I’m currently learning django, python and how to become a full-stack developer. It's quite a turn from my previous job but it's turning out great, I love it !
-- 💞️ Mostly looking to collaborate on small projects, where you'd be okay with my beginnner level and mistakes =) I'm a fast learner though and hope to get to BUSINESS soon. Also : if your project has anything to do with role play games apps, especially tabletop or LARP: I, AM, IN!
-- 📫 You can reach me at marie.jeammet at protonmail.com 
+<p align="center">👋 Hi, I'm Marie</p>
+
+I'm a (\*cought\* student) back-end developer from France ! 
+
+**About me**
+
+- 🌱 I’m currently learning python, django and how to become a neat full-stack developer. Loving it !
+
+- 🎲 My number one passion is roleplay games ! Yes, D&D, yes ! Even before it was cool ! I'm also that weirdo getting dressed as a Hogwarts' student or a post-apocalyptic survivor. 
+
+- 💼 Mostly looking for collaborations on small websites / apps / APIs. I'm new to this but I'm also a fast learner 🏃‍♀️
+
+- 📫 You can reach me at marie.jeammet [at] protonmail [dot] com 
+
+<br/>
+<p>And now some stats because why not</p>
+
+<!---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjeammet&show_icons=true&theme=gruvbox&count_private=true))](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjeammet&layout=compact&theme=gruvbox&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+--->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mjeammet&show_icons=true&theme=gruvbox&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mjeammet&layout=compact&theme=gruvbox&count_private=true" />
+</a>
+
+Cool stat boxes by [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 mjeammet/mjeammet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
