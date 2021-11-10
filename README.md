@@ -14,11 +14,11 @@ I'm a (\*cought\* student) back-end developer from France !
 
 <!---
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height='160' align="center" src="https://github-readme-stats.vercel.app/api?username=mjeammet&show_icons=true&theme=gruvbox&count_private=true" />
+  <img height='140' align="center" src="https://github-readme-stats.vercel.app/api?username=mjeammet&show_icons=true&theme=gruvbox&count_private=true" />
 </a>
 --->
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height='160' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjeammet&layout=compact&theme=gruvbox&count_private=true" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height='140' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjeammet&layout=compact&theme=gruvbox&count_private=true" />
 </a>
 
 Cool stat boxes by [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
