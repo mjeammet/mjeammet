@@ -4,7 +4,7 @@ I'm a (\*cought\* student) back-end developer from France !
 
 **About me**
 
-- 🌱 I’m currently learning python, django and how to become a neat full-stack developer. Loving it !
+- 🌱 I’m currently learning python, django and the ropes of full-stack development. Loving it !
 
 - 💼 Mostly looking for collaborations on small websites / apps / APIs. I'm new to this but I'm also a fast learner 💡
 
