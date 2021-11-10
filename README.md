@@ -1,4 +1,4 @@
-<p align="center">👋 Hi, I'm Marie</p>
+<h1 align="center">👋 Hi, I'm Marie</h1>
 
 I'm a (\*cought\* student) back-end developer from France ! 
 
@@ -6,26 +6,19 @@ I'm a (\*cought\* student) back-end developer from France !
 
 - 🌱 I’m currently learning python, django and how to become a neat full-stack developer. Loving it !
 
-- 🎲 My number one passion is roleplay games ! Yes, D&D, yes ! Even before it was cool ! I'm also that weirdo getting dressed as a Hogwarts' student or a post-apocalyptic survivor. 
+- 🎲 My number one passion is roleplay games ! Yes, D&D, exactly ! 
 
 - 💼 Mostly looking for collaborations on small websites / apps / APIs. I'm new to this but I'm also a fast learner 🏃‍♀️
 
 - 📫 You can reach me at marie.jeammet [at] protonmail [dot] com 
 
-<br/>
-<p>And now some stats because why not</p>
-
 <!---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjeammet&show_icons=true&theme=gruvbox&count_private=true))](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjeammet&layout=compact&theme=gruvbox&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
---->
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mjeammet&show_icons=true&theme=gruvbox&count_private=true" />
+  <img height='160' align="center" src="https://github-readme-stats.vercel.app/api?username=mjeammet&show_icons=true&theme=gruvbox&count_private=true" />
 </a>
+--->
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mjeammet&layout=compact&theme=gruvbox&count_private=true" />
+  <img height='160' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjeammet&layout=compact&theme=gruvbox&count_private=true" />
 </a>
 
 Cool stat boxes by [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
