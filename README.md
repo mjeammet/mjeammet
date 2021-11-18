@@ -18,7 +18,7 @@ I'm a (\*cought\* student) back-end developer from France !
 </a>
 --->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height='140' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjeammet&layout=compact&theme=gruvbox&count_private=true" />
+  <img height='140' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjeammet&layout=compact&langs_count=6&theme=gruvbox" />
 </a>
 
 Cool stat boxes by [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
