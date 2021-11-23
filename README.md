@@ -6,7 +6,7 @@ I'm a (\*cought\* student) back-end developer from France !
 
 - 🌱 I’m currently learning python, django and the ropes of full-stack development. Loving it !
 
-- 💼 Mostly looking for collaborations on small websites / apps / APIs. I'm new to this but I'm also a fast learner 💡
+- 💼 Looking for work on small websites / apps / APIs. I'm new to this but I'm also a fast learner 💡 Sectors of interest include gaming, politics and sciences !
 
 - 🎲 I'm crazy about roleplaying games ! Yes, D&D, exactly ! It's an amazingly creative hobby, and I'm looking forward to buildings apps for our community ♥️
 
