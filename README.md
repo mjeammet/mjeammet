@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Marie</h1>
 
-I'm a (\*cought\* student) back-end developer from France ! 
+I'm a (\*cought\* student) web developer from France ! 
 
 **About me**
 
@@ -8,9 +8,9 @@ I'm a (\*cought\* student) back-end developer from France !
 
 - 💼 Looking for work on small websites / apps / APIs. I'm new to this but I'm also a fast learner 💡 Sectors of interest include gaming, politics and sciences !
 
-- 🎲 I'm crazy about roleplaying games ! Yes, D&D, exactly ! It's an amazingly creative hobby, and I'm looking forward to buildings apps for our community ♥️
+- 🎲 I'm crazy about roleplaying games ! Yes, D&D, exactly ! It's an amazingly creative hobby, and I'm looking forward to building apps for our community ♥️
 
-- 📫 You can reach me at marie.jeammet [at] protonmail [dot] com 
+- 📫 You can reach me at marie [dot] jeammet [at] protonmail [dot] com 
 
 <!---
 <a href="https://github.com/anuraghazra/github-readme-stats">
