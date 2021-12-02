@@ -10,7 +10,7 @@ I'm a (\*cought\* student) web developer from France !
 
 - 🎲 I'm crazy about roleplaying games ! Yes, D&D, exactly ! It's an amazingly creative hobby, and I'm looking forward to building apps for our community ♥️
 
-- 📫 You can reach me at marie [dot] jeammet [at] protonmail [dot] com 
+- 📫 You can reach me at <my_first_name> [dot] jeammet [at] protonmail [dot] com 
 
 <!---
 <a href="https://github.com/anuraghazra/github-readme-stats">
