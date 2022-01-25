@@ -10,15 +10,14 @@ I'm a (\*cought\* student) web developer from France !
 
 - 🎲 I'm crazy about roleplaying games ! Yes, D&D, exactly ! It's an amazingly creative hobby, and I'm looking forward to building apps for our community ♥️
 
-- 📫 You can reach me at <my_first_name> [dot] jeammet [at] protonmail [dot] com 
+- 📫 You can reach me at <my_first_name>.jeammet@protonmail.com 
 
-<!---
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height='140' align="center" src="https://github-readme-stats.vercel.app/api?username=mjeammet&show_icons=true&theme=gruvbox&count_private=true" />
+  <img height='160' align="center" src="https://github-readme-stats.vercel.app/api?username=mjeammet&show_icons=true&theme=gruvbox&count_private=true" />
 </a>
---->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height='140' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjeammet&layout=compact&langs_count=6&theme=gruvbox" />
+  <img height='160' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjeammet&layout=compact&langs_count=6&theme=gruvbox" />
 </a>
 
 Cool stat boxes by [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
