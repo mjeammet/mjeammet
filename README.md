@@ -1,16 +1,16 @@
 <h1 align="center">👋 Hi, I'm Marie</h1>
 
-I'm a (\*cought\* student) web developer from France ! 
+I'm a junior web developer from France ! 
 
 **About me**
 
-- 🌱 I’m currently learning python, django and the ropes of full-stack development. Loving it !
+- 🌱 Finished my dev course on Python, Django and the ropes of back-end development. Loved it ! Now onto serious business ! 
 
-- 💼 Looking for work on small websites / apps / APIs. I'm new to this but I'm also a fast learner 💡 Sectors of interest include gaming, politics and sciences !
+- 💼 Looking for work on websites / apps / APIs. I'm new to this but I'm a fast learner 💡 Sectors of interest include gaming, politics, energy and sciences !
 
 - 🎲 I'm crazy about roleplaying games ! Yes, D&D, exactly ! It's an amazingly creative hobby, and I'm looking forward to building apps for our community ♥️
 
-- 📫 You can reach me at <my_first_name>.jeammet@protonmail.com 
+- 📫 You can reach me at ${my_first_name}.jeammet@protonmail.com 
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
