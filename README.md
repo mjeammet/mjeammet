@@ -6,9 +6,9 @@ I'm a junior web developer from France !
 
 - 🌱 Finished my dev course on Python, Django and the ropes of back-end development. Loved it ! Now onto serious business ! 
 
-- 💼 Looking for work on websites / apps / APIs. I'm new to this but I'm a fast learner 💡 Sectors of interest include gaming, politics, energy and sciences !
+- 💼 Looking for work on websites / apps / APIs. I'm new to this but I'm a fast learner 💡 Sectors of interest include climate advocacy, politics, energy and sciences !
 
-- 🎲 I'm crazy about roleplaying games ! Yes, D&D, exactly ! It's an amazingly creative hobby, and I'm looking forward to building apps for our community ♥️
+- 🎲 I'm crazy about roleplaying games ! Yes, Dongeons & Dragons, these nerds, exactly ! It's an amazingly creative hobby, and I'm looking forward to building apps for our community ♥️
 
 - 📫 You can reach me at ${my_first_name}.jeammet@protonmail.com 
 
