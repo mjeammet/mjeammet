@@ -1,16 +1,14 @@
 <h1 align="center">👋 Hi, I'm Marie</h1>
 
-I'm a junior web developer from France ! 
+I'm a web developer from France ! 
 
 **About me**
 
-- 🌱 Finished my dev course on Python, Django and the ropes of back-end development. Loved it ! Now onto serious business ! 
+- 💼 Currently working as a Python web developer @DINUM, hoping to improve public services, with the guidance of my fellow betagouvers. Love it !
 
-- 💼 Looking for work on websites / apps / APIs. I'm new to this but I'm a fast learner 💡 Sectors of interest include climate advocacy, politics, energy and sciences !
+- 🎲 I'm crazy about roleplaying games ! Yes, Dungeons & Dragons, exactly ! It's an amazingly creative hobby, and I'm looking forward to building apps for our community ♥️
 
-- 🎲 I'm crazy about roleplaying games ! Yes, Dungeons & Dragons, these nerds, exactly ! It's an amazingly creative hobby, and I'm looking forward to building apps for our community ♥️
-
-- 📫 You can reach me at ${my_first_name}.jeammet@protonmail.com 
+- 📫 You can reach me at ${my_first_name}.pupojeammet@tutanota.com 
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
