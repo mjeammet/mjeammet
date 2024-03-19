@@ -8,8 +8,7 @@ I'm a web developer from France !
 
 - 🎲 I'm crazy about roleplaying games ! Yes, Dungeons & Dragons, exactly ! It's an amazingly creative hobby, and I'm looking forward to building apps for our community ♥️
 
-- 📫 You can reach me at ${my_first_name}.pupojeammet@tutanota.com 
-
+- 📫 You can reach me @maruey@pouet.chapril.org
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height='160' align="center" src="https://github-readme-stats.vercel.app/api?username=mjeammet&show_icons=true&theme=gruvbox&count_private=true" />
